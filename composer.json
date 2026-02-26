@@ -1,6 +1,6 @@
 {
   "name": "ton-org/asafe2fa-php",
-  "description": "TOTP (RFC 6238) / Google Authenticator compatible 2FA helper.",
+  "description": "TOTP (RFC 6238) / Asafe compatible 2FA helper.",
   "type": "library",
   "license": "MIT",
   "version": "1.0.0",
